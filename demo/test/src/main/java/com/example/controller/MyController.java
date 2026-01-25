@@ -13,8 +13,13 @@ public class MyController {
 
     private final MyService myService;
 
-    @GetMapping("/test")
-    public String test(){
+    @GetMapping("/test1")
+    public String test1(){
+        return myService.test();
+    }
+
+    @GetMapping("/test2")
+    public String test2(){
         return myService.test();
     }
 }
