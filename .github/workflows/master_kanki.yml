@@ -35,4 +35,4 @@ jobs:
         with:
           app-name: 'kanki'
           publish-profile: ${{ secrets.AZURE_APP_KANKI }}
-          package: 'demo/build/libs/*.jar'
+          package: 'demo/test/build/libs/*.jar'
