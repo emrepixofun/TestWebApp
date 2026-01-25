@@ -2,7 +2,7 @@ name: Build and deploy Spring Boot (Gradle) to Azure Web App
 
 on:
   push:
-    branches: [ "main" ]   # branch'in master ise master yap
+    branches: [ "master" ]   # branch'in master ise master yap
   workflow_dispatch:
 
 jobs:
