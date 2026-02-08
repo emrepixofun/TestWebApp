@@ -6,8 +6,9 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.time.LocalDateTime;
+import java.util.UUID;
 
-@Entity
+@Entity(name = "GelirgiderUser")
 @Table(name = "gg_users", indexes = @Index(unique = true, columnList = "uuid"))
 @Data
 @NoArgsConstructor
@@ -19,7 +20,7 @@ public class User {
     private Long id;
 
     @Column(nullable = false, unique = true, updatable = false, length = 36)
-    private String uuid;
+    private UUID uuid;
 
     @Column(name = "created_at", nullable = false, updatable = false)
     private LocalDateTime createdAt;

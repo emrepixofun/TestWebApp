@@ -3,3 +3,4 @@ rootProject.name = "TestWebApp"
 include "app"
 
 include "gelirgider"
+include "konumnote"

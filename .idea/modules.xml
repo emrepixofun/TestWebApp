@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestWebApp.iml" filepath="$PROJECT_DIR$/.idea/modules/TestWebApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TestWebApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TestWebApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TestWebApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TestWebApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TestWebApp.app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TestWebApp.app.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gelirgider/TestWebApp.gelirgider.iml" filepath="$PROJECT_DIR$/.idea/modules/gelirgider/TestWebApp.gelirgider.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gelirgider/TestWebApp.gelirgider.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gelirgider/TestWebApp.gelirgider.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gelirgider/TestWebApp.gelirgider.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gelirgider/TestWebApp.gelirgider.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/konumnote/TestWebApp.konumnote.iml" filepath="$PROJECT_DIR$/.idea/modules/konumnote/TestWebApp.konumnote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/konumnote/TestWebApp.konumnote.main.iml" filepath="$PROJECT_DIR$/.idea/modules/konumnote/TestWebApp.konumnote.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/konumnote/TestWebApp.konumnote.test.iml" filepath="$PROJECT_DIR$/.idea/modules/konumnote/TestWebApp.konumnote.test.iml" />
     </modules>
   </component>
 </project>

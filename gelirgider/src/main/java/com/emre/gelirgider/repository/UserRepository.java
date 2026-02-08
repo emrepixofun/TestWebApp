@@ -5,9 +5,10 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 import java.util.Optional;
+import java.util.UUID;
 
-@Repository
+@Repository("gelirgiderUserRepository")
 public interface UserRepository extends JpaRepository<User, Long> {
-    Optional<User> findByUuid(String uuid);
-    boolean existsByUuid(String uuid);
+    Optional<User> findByUuid(UUID uuid);
+    boolean existsByUuid(UUID uuid);
 }

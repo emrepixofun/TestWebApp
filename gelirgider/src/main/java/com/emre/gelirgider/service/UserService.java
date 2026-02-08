@@ -6,6 +6,8 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.util.UUID;
+
 @RequiredArgsConstructor
 @Service("gelirgiderUserService")
 public class UserService {
@@ -16,7 +18,7 @@ public class UserService {
      * UUID ile kullanıcı getirir; yoksa oluşturur. Bir kez oluşturulduktan sonra UUID asla değişmez.
      */
     @Transactional
-    public User getOrCreateByUuid(String uuid) {
+    public User getOrCreateByUuid(UUID uuid) {
         return userRepository.findByUuid(uuid)
                 .orElseGet(() -> {
                     User user = new User();

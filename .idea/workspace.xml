@@ -5,65 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f58b798-a320-4681-97f6-f8ed13897f34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/master_kanki.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/master_kanki.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.14.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14.3/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.14.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.14.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.14.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.14.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.14.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gradle/8.14.3/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gradle/8.14.3/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gradle/8.14.3/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gradle/8.14.3/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gradle/8.14.3/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gradle/8.14.3/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gradle/8.14.3/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gradle/8.14.3/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gradle/8.14.3/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gradle/8.14.3/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.idea/modules/test/demo.test.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/bin/main/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/bin/main/com/example/TestApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/bin/main/com/example/controller/AnotherController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/bin/main/com/example/controller/MyController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/bin/main/com/example/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/bin/main/com/example/repository/UserRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/bin/main/com/example/service/MyService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/bin/main/com/example/service/MyServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/build/classes/java/main/com/example/TestApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/build/classes/java/main/com/example/controller/MyController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/build/classes/java/main/com/example/service/MyService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/build/classes/java/main/com/example/service/MyServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/build/libs/test-1.0-plain.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/build/libs/test-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/build/resolvedMainClassName" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/build/resources/main/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/src/main/java/com/example/TestApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/src/main/java/com/example/controller/MyController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/src/main/java/com/example/service/MyService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/src/main/java/com/example/service/MyServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/test/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/gelirgider/TestWebApp.gelirgider.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/gelirgider/TestWebApp.gelirgider.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/resources/main/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/resources/main/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gelirgider/build/classes/java/main/com/emre/gelirgider/filter/UserContextFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/gelirgider/build/classes/java/main/com/emre/gelirgider/filter/UserContextFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gelirgider/build/classes/java/main/com/emre/gelirgider/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/gelirgider/build/classes/java/main/com/emre/gelirgider/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gelirgider/build/classes/java/main/com/emre/gelirgider/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/gelirgider/build/classes/java/main/com/emre/gelirgider/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gelirgider/build/classes/java/main/com/emre/gelirgider/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/gelirgider/build/classes/java/main/com/emre/gelirgider/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gelirgider/build/libs/gelirgider-0.0.1-SNAPSHOT-plain.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gelirgider/build/libs/gelirgider-0.0.1-SNAPSHOT-plain.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gelirgider/build/tmp/compileJava/compileTransaction/stash-dir/UserContextFilter.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gelirgider/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/gelirgider/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gelirgider/src/main/java/com/emre/gelirgider/filter/UserContextFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/gelirgider/src/main/java/com/emre/gelirgider/filter/UserContextFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gelirgider/src/main/java/com/emre/gelirgider/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/gelirgider/src/main/java/com/emre/gelirgider/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gelirgider/src/main/java/com/emre/gelirgider/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/gelirgider/src/main/java/com/emre/gelirgider/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gelirgider/src/main/java/com/emre/gelirgider/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gelirgider/src/main/java/com/emre/gelirgider/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,21 +93,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Build TestWebApp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Spring Boot.DemoApplication.executor&quot;: &quot;Debug&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Projects/Emre/Personal/TestWebApp&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build TestWebApp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.DemoApplication (1).executor": "Debug",
+    "Spring Boot.DemoApplication.executor": "Debug",
+    "Spring Boot.KonumnotApplication.executor": "Debug",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Projects/Emre/Personal/TestWebApp/konumnote/src/main/java/com/emre/konumnot"
   }
-}</component>
-  <component name="RunManager" selected="Spring Boot.DemoApplication (1)">
-    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Emre\Personal\TestWebApp\konumnote\src\main\java\com\emre\konumnot" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="demo" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
       <module name="TestWebApp.app.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.emre.DemoApplication" />
@@ -150,13 +139,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="KonumnotApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
-      <module name="com.emre.demo.app.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.emre.DemoApplication" />
+      <module name="TestWebApp.konumnote.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.emre.konumnot.KonumnotApplication" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.emre.*" />
+          <option name="PATTERN" value="com.emre.konumnot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,8 +155,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.DemoApplication (1)" />
         <item itemvalue="Spring Boot.DemoApplication" />
+        <item itemvalue="Spring Boot.KonumnotApplication" />
       </list>
     </recent_temporary>
   </component>
