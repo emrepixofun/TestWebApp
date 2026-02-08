@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: App
+  datasource:
+    url: jdbc:postgresql://emre.c5kqoaiu2ndm.eu-north-1.rds.amazonaws.com:5432/postgres
+    username: postgres
+    password: .Femre141
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+
+server:
+  port: 8080

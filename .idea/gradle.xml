@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/gelirgider" />
+            <option value="$PROJECT_DIR$/module-order" />
+            <option value="$PROJECT_DIR$/module-user" />
+          </set>
+        </option>
+      </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/demo" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/demo" />
-            <option value="$PROJECT_DIR$/demo/test" />
+            <option value="$PROJECT_DIR$/demo/app" />
+            <option value="$PROJECT_DIR$/demo/module-order" />
+            <option value="$PROJECT_DIR$/demo/module-user" />
           </set>
         </option>
       </GradleProjectSettings>

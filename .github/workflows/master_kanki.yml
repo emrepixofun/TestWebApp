@@ -16,29 +16,22 @@ jobs:
       - name: Set up Java 21
         uses: actions/setup-java@v4
         with:
-          distribution: 'temurin'
-          java-version: '21'
-          cache: 'gradle'
+          distribution: "temurin"
+          java-version: "21"
+          cache: "gradle"
 
-      # gradlew demo altında ise komutları demo içinde çalıştırıyoruz
       - name: Grant execute permission for Gradle wrapper
         run: chmod +x gradlew
-        working-directory: demo
 
-      # Multi-module: test modülünün bootJar'ını üret
-      - name: Build :test bootJar
-        working-directory: demo
-        run: ./gradlew :test:clean :test:bootJar -x test
+      - name: Build :app bootJar
+        run: ./gradlew :app:clean :app:bootJar -x test
 
-      # Oluşan jar: demo/test/build/libs altında
       - name: Prepare deploy package (zip)
-        working-directory: demo
         run: |
-          echo "Listing demo/test/build/libs"
-          ls -lah test/build/libs
+          echo "Listing app/build/libs"
+          ls -lah app/build/libs
 
-          # plain jar'ı dışla, ilk uygun jar'ı seç
-          JAR_PATH=$(ls test/build/libs/*.jar | grep -v plain | head -n 1)
+          JAR_PATH=$(ls app/build/libs/*.jar | grep -v plain | head -n 1)
           echo "Selected jar: $JAR_PATH"
 
           mkdir -p deploy
@@ -51,6 +44,6 @@ jobs:
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v3
         with:
-          app-name: 'kanki'
+          app-name: "kanki"
           publish-profile: ${{ secrets.AZURE_APP_KANKI }}
-          package: 'demo/deploy/app.zip'
+          package: "deploy/app.zip"

@@ -1,0 +1,29 @@
+spring:
+  application:
+    name: gelirgider
+  
+  datasource:
+    url: jdbc:postgresql://localhost:5432/apps
+    username: postgres
+    password: 1234
+    driver-class-name: org.postgresql.Driver
+  
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+  
+server:
+  port: 8080
+
+logging:
+  level:
+    root: INFO
+    com.emre.gelirgider: INFO
+    org.hibernate.SQL: WARN
+    org.hibernate.type.descriptor.sql: WARN
+

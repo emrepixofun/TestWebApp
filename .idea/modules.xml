@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TestWebApp.iml" filepath="$PROJECT_DIR$/.idea/TestWebApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test/demo.test.main.iml" filepath="$PROJECT_DIR$/.idea/modules/test/demo.test.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gelirgider/TestWebApp.gelirgider.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gelirgider/TestWebApp.gelirgider.main.iml" />
     </modules>
   </component>
 </project>
